@@ -1,6 +1,6 @@
 # Transaction Management REST API With Flask & SQL Alchemy
 
-> Products API using Python Flask, SQL Alchemy and Marshmallow
+> Transactions API using Python Flask, SQL Alchemy and Marshmallow
 
 ## Quick Start Using Pipenv
 
@@ -17,7 +17,7 @@ $ python
 >> db.create_all()
 >> exit()
 
-# Run Server (http://localhst:5000)
+# Run Server (http://localhost:5000)
 python app.py
 ```
 
